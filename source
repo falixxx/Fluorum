@@ -1,4 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+OrionLib:MakeNotification({Name="Notification",Content="Not found game!",Image="rbxassetid://4483345998",Time=5})
 
 if(game.PlaceId == 6839171747) then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/falixxx/Fluorum/main/games/DOORS.lua", true))()
