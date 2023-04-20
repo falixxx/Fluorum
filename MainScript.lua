@@ -12,4 +12,4 @@ if(game.PlaceId == 6516141723) then
   OrionLib:MakeNotification({Name="Notification",Content="Execute in game, not lobby!",Image="rbxassetid://4483345998",Time=5})
 end
 
-print("Fluorum MainScript")
+print(nil)
