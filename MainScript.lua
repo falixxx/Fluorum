@@ -16,6 +16,10 @@ if(game.PlaceId == 189707) then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/falixxx/Fluorum/main/games/NDS.lua", true))()
 end
 
+if(game.PlaceId == 155615604) then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/falixxx/Fluorum/main/games/PrisonLife.lua", true))()
+end
+
 if(game.PlaceId == 6516141723) then
   OrionLib:MakeNotification({Name="Notification",Content="Execute in game, not lobby!",Image="rbxassetid://4483345998",Time=5})
 end
