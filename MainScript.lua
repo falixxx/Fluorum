@@ -21,7 +21,7 @@ if(game.PlaceId == 155615604) then
 end
 
 if(game.PlaceId == 2537430692) then
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/falixxx/Fluorum/main/games/Jenga", true))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/falixxx/Fluorum/main/games/Jenga.lua", true))()
 end
 
 if(game.PlaceId == 6516141723) then
