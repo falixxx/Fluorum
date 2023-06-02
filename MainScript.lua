@@ -1,3 +1,4 @@
+-- CREDITS https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 
 local places = {
