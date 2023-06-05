@@ -1,5 +1,7 @@
 -- CREDITS https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Loader.lua
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Lib=loadstring(game:HttpGet('https://falixassetu.pages.dev/lua/notify.lua',true))()
+Lib.prompt("Fluorum", "This script is outdated.", 2)
 
 local places = {
     [{6839171747}] = "https://raw.githubusercontent.com/falixxx/Fluorum/main/games/DOORS.lua",
